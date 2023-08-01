@@ -1,0 +1,15 @@
+C:\Users\gahrh\OneDrive\Desktop\task\02.08.2023\02.08.2023\bin\Debug\net6.0\02.08.2023.exe
+C:\Users\gahrh\OneDrive\Desktop\task\02.08.2023\02.08.2023\bin\Debug\net6.0\02.08.2023.deps.json
+C:\Users\gahrh\OneDrive\Desktop\task\02.08.2023\02.08.2023\bin\Debug\net6.0\02.08.2023.runtimeconfig.json
+C:\Users\gahrh\OneDrive\Desktop\task\02.08.2023\02.08.2023\bin\Debug\net6.0\02.08.2023.dll
+C:\Users\gahrh\OneDrive\Desktop\task\02.08.2023\02.08.2023\bin\Debug\net6.0\02.08.2023.pdb
+C:\Users\gahrh\OneDrive\Desktop\task\02.08.2023\02.08.2023\obj\Debug\net6.0\02.08.2023.csproj.AssemblyReference.cache
+C:\Users\gahrh\OneDrive\Desktop\task\02.08.2023\02.08.2023\obj\Debug\net6.0\02.08.2023.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gahrh\OneDrive\Desktop\task\02.08.2023\02.08.2023\obj\Debug\net6.0\02.08.2023.AssemblyInfoInputs.cache
+C:\Users\gahrh\OneDrive\Desktop\task\02.08.2023\02.08.2023\obj\Debug\net6.0\02.08.2023.AssemblyInfo.cs
+C:\Users\gahrh\OneDrive\Desktop\task\02.08.2023\02.08.2023\obj\Debug\net6.0\02.08.2023.csproj.CoreCompileInputs.cache
+C:\Users\gahrh\OneDrive\Desktop\task\02.08.2023\02.08.2023\obj\Debug\net6.0\02.08.2023.dll
+C:\Users\gahrh\OneDrive\Desktop\task\02.08.2023\02.08.2023\obj\Debug\net6.0\refint\02.08.2023.dll
+C:\Users\gahrh\OneDrive\Desktop\task\02.08.2023\02.08.2023\obj\Debug\net6.0\02.08.2023.pdb
+C:\Users\gahrh\OneDrive\Desktop\task\02.08.2023\02.08.2023\obj\Debug\net6.0\02.08.2023.genruntimeconfig.cache
+C:\Users\gahrh\OneDrive\Desktop\task\02.08.2023\02.08.2023\obj\Debug\net6.0\ref\02.08.2023.dll

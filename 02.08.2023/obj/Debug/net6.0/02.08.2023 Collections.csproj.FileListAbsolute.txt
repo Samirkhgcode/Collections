@@ -1,0 +1,15 @@
+C:\Users\gahrh\OneDrive\Desktop\task\02.08.2023\02.08.2023\bin\Debug\net6.0\02.08.2023 Collections.exe
+C:\Users\gahrh\OneDrive\Desktop\task\02.08.2023\02.08.2023\bin\Debug\net6.0\02.08.2023 Collections.deps.json
+C:\Users\gahrh\OneDrive\Desktop\task\02.08.2023\02.08.2023\bin\Debug\net6.0\02.08.2023 Collections.runtimeconfig.json
+C:\Users\gahrh\OneDrive\Desktop\task\02.08.2023\02.08.2023\bin\Debug\net6.0\02.08.2023 Collections.dll
+C:\Users\gahrh\OneDrive\Desktop\task\02.08.2023\02.08.2023\bin\Debug\net6.0\02.08.2023 Collections.pdb
+C:\Users\gahrh\OneDrive\Desktop\task\02.08.2023\02.08.2023\obj\Debug\net6.0\02.08.2023 Collections.csproj.AssemblyReference.cache
+C:\Users\gahrh\OneDrive\Desktop\task\02.08.2023\02.08.2023\obj\Debug\net6.0\02.08.2023 Collections.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gahrh\OneDrive\Desktop\task\02.08.2023\02.08.2023\obj\Debug\net6.0\02.08.2023 Collections.AssemblyInfoInputs.cache
+C:\Users\gahrh\OneDrive\Desktop\task\02.08.2023\02.08.2023\obj\Debug\net6.0\02.08.2023 Collections.AssemblyInfo.cs
+C:\Users\gahrh\OneDrive\Desktop\task\02.08.2023\02.08.2023\obj\Debug\net6.0\02.08.2023 Collections.csproj.CoreCompileInputs.cache
+C:\Users\gahrh\OneDrive\Desktop\task\02.08.2023\02.08.2023\obj\Debug\net6.0\02.08.2023 Collections.dll
+C:\Users\gahrh\OneDrive\Desktop\task\02.08.2023\02.08.2023\obj\Debug\net6.0\refint\02.08.2023 Collections.dll
+C:\Users\gahrh\OneDrive\Desktop\task\02.08.2023\02.08.2023\obj\Debug\net6.0\02.08.2023 Collections.pdb
+C:\Users\gahrh\OneDrive\Desktop\task\02.08.2023\02.08.2023\obj\Debug\net6.0\02.08.2023 Collections.genruntimeconfig.cache
+C:\Users\gahrh\OneDrive\Desktop\task\02.08.2023\02.08.2023\obj\Debug\net6.0\ref\02.08.2023 Collections.dll
